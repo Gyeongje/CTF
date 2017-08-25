@@ -1,4 +1,4 @@
-data = open('C:/test/1.txt', 'rb').read()
+data = open('C:/test/encoded_flag.txt', 'rb').read()
 
 flag = []
 for i in range(20):
